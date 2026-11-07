@@ -1,0 +1,28 @@
+{
+  "note": "Synthetic messages written for this demo. No real people or phone numbers.",
+  "now": "2026-11-06T10:00:00",
+  "messages": [
+    {"id": "m01", "sender": "+91-90000-00001", "received_at": "2026-11-06T09:14:00",
+     "text": "Velachery 3rd cross st, ground floor la thanni vandhuduchu. 4 perr irukkom, paatiku sugar irukku. Help pannunga!"},
+    {"id": "m02", "sender": "+91-90000-00002", "received_at": "2026-11-06T09:22:00",
+     "text": "Help! Velachery 3rd cross street, water entered house, elderly diabetic grandmother, 4 people"},
+    {"id": "m03", "sender": "+91-90000-00003", "received_at": "2026-11-06T09:31:00",
+     "text": "velachery 3rd cross st la paati ku sugar, thanni ulla vandhuduchu, please send boat"},
+    {"id": "m04", "sender": "+91-90000-00004", "received_at": "2026-11-06T09:20:00",
+     "text": "Pallikaranai main road, my wife is pregnant, water rising fast near our house. 2 people."},
+    {"id": "m05", "sender": "+91-90000-00005", "received_at": "2026-11-06T09:40:00",
+     "text": "Manali New Town, 12 people on terrace, water everywhere, no food since morning, need boat"},
+    {"id": "m06", "sender": "+91-90000-00006", "received_at": "2026-11-06T09:50:00",
+     "text": "Tambaram East road blocked by fallen tree, nobody hurt"},
+    {"id": "m07", "sender": "+91-90000-00007", "received_at": "2026-11-06T09:05:00",
+     "text": "Adyar near bridge, old man 80 yrs bedridden, oxygen cylinder running low, water outside the house"},
+    {"id": "m08", "sender": "+91-90000-00008", "received_at": "2026-11-06T09:35:00",
+     "text": "வேளச்சேரி 2வது தெருவில் தண்ணீர் வீட்டுக்குள் வந்துவிட்டது. பாட்டி இருக்காங்க"},
+    {"id": "m09", "sender": "+91-90000-00009", "received_at": "2026-11-06T09:55:00",
+     "text": "FORWARDED: Marina beach boats coming, 50 dead near Besant Nagar!! Please share this to everyone"},
+    {"id": "m10", "sender": "+91-90000-00010", "received_at": "2026-11-06T09:42:00",
+     "text": "Mudichur, 6 perr, 2 kulandhai, thanni veetukkulla vandhuduchu, ground floor"},
+    {"id": "m11", "sender": "+91-90000-00011", "received_at": "2026-11-06T09:58:00",
+     "text": "Sholinganallur, tree fell on car, one person injured, bleeding"}
+  ]
+}
